@@ -1,4 +1,5 @@
 Anojan MK – Personal Portfolio Website
+
 A responsive personal portfolio showcasing my skills as a Full Stack Developer and UI/UX Designer.
 Built with HTML, CSS, and JavaScript for clean layout and smooth navigation.
 Includes sections: About Me, Education, Projects, Skills, and Contact Details.
